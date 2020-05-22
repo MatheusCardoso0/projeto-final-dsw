@@ -100,10 +100,10 @@
               <!-- / header top left -->
               <div class="aa-header-top-right">
                 <ul class="aa-head-top-nav-right">
-                  <li><a href="account.html">My Account</a></li>
-                  <li class="hidden-xs"><a href="wishlist.html">Wishlist</a></li>
-                  <li class="hidden-xs"><a href="cart.html">My Cart</a></li>
-                  <li class="hidden-xs"><a href="checkout.html">Checkout</a></li>
+                  <li><a href="account.php">My Account</a></li>
+                  <li class="hidden-xs"><a href="wishlist.php">Wishlist</a></li>
+                  <li class="hidden-xs"><a href="cart.php">My Cart</a></li>
+                  <li class="hidden-xs"><a href="checkout.php">Checkout</a></li>
                   <li><a href="" data-toggle="modal" data-target="#login-modal">Login</a></li>
                 </ul>
               </div>
@@ -123,7 +123,7 @@
               <!-- logo  -->
               <div class="aa-logo">
                 <!-- Text based logo -->
-                <a href="index.html">
+                <a href="index.php">
                   <span class="fa fa-shopping-cart"></span>
                   <p>daily<strong>Shop</strong> <span>Your Shopping Partner</span></p>
                 </a>
@@ -202,7 +202,7 @@
           <div class="navbar-collapse collapse">
             <!-- Left nav -->
             <ul class="nav navbar-nav">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li><a href="#">Men <span class="caret"></span></a>
                 <ul class="dropdown-menu">                
                   <li><a href="#">Casual</a></li>
@@ -294,18 +294,18 @@
                 </ul>
               </li>
               <li><a href="#">Furniture</a></li>            
-              <li><a href="blog-archive.html">Blog <span class="caret"></span></a>
+              <li><a href="blog-archive.php">Blog <span class="caret"></span></a>
                 <ul class="dropdown-menu">                
-                  <li><a href="blog-archive.html">Blog Style 1</a></li>
-                  <li><a href="blog-archive-2.html">Blog Style 2</a></li>
-                  <li><a href="blog-single.html">Blog Single</a></li>                
+                  <li><a href="blog-archive.php">Blog Style 1</a></li>
+                  <li><a href="blog-archive-2.php">Blog Style 2</a></li>
+                  <li><a href="blog-single.php">Blog Single</a></li>                
                 </ul>
               </li>
-              <li><a href="contact.html">Contact</a></li>
+              <li><a href="contact.php">Contact</a></li>
               <li><a href="#">Pages <span class="caret"></span></a>
                 <ul class="dropdown-menu">                
-                  <li><a href="product.html">Shop Page</a></li>
-                  <li><a href="product-detail.html">Shop Single</a></li>                
+                  <li><a href="product.php">Shop Page</a></li>
+                  <li><a href="product-detail.php">Shop Single</a></li>                
                   <li><a href="404.html">404 Page</a></li>                
                 </ul>
               </li>
@@ -326,7 +326,7 @@
       <div class="aa-catg-head-banner-content">
         <h2>Contact</h2>
         <ol class="breadcrumb">
-          <li><a href="index.html">Home</a></li>         
+          <li><a href="index.php">Home</a></li>         
           <li class="active">Contact</li>
         </ol>
       </div>
@@ -533,7 +533,7 @@
             <label for="rememberme" class="rememberme"><input type="checkbox" id="rememberme"> Remember me </label>
             <p class="aa-lost-password"><a href="#">Lost your password?</a></p>
             <div class="aa-register-now">
-              Don't have an account?<a href="account.html">Register now!</a>
+              Don't have an account?<a href="account.php">Register now!</a>
             </div>
           </form>
         </div>                        
