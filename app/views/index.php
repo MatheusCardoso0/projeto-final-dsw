@@ -102,9 +102,8 @@
               <!-- / header top left -->
               <div class="aa-header-top-right">
                 <ul class="aa-head-top-nav-right">
-                  <li><a href="account.php">My Account</a></li>
-                  <li class="hidden-xs"><a href="wishlist.php">Wishlist</a></li>
-                  <li class="hidden-xs"><a href="cart.php">My Cart</a></li>
+                  <li><a href="account.php">Minha Conta</a></li>
+                  <li class="hidden-xs"><a href="cart.php">Meu Carrinho</a></li>
                   <li class="hidden-xs"><a href="checkout.php">Checkout</a></li>
                   <li><a href="" data-toggle="modal" data-target="#login-modal">Login</a></li>
                 </ul>
@@ -137,7 +136,7 @@
               <div class="aa-cartbox">
                 <a class="aa-cart-link" href="#">
                   <span class="fa fa-shopping-basket"></span>
-                  <span class="aa-cart-title">SHOPPING CART</span>
+                  <span class="aa-cart-title">Meu Carrinho</span>
                   <span class="aa-cart-notify">2</span>
                 </a>
                 <div class="aa-cartbox-summary">
