@@ -140,30 +140,30 @@
   <!-- / menu -->
   <!-- catg header banner section -->
   <section id="aa-catg-head-banner">
-   <img src="img/fashion/fashion-header-bg-8.jpg" alt="fashion img">
-   <div class="aa-catg-head-banner-area">
-     <div class="container">
-      <div class="aa-catg-head-banner-content">
-        <h2>Cart Page</h2>
-        <ol class="breadcrumb">
-          <li><a href="index.php">Home</a></li>                   
-          <li class="active">Cart</li>
-        </ol>
+    <img src="img/fashion/fashion-header-bg-8.jpg" alt="fashion img">
+    <div class="aa-catg-head-banner-area">
+      <div class="container">
+        <div class="aa-catg-head-banner-content">
+          <h2>Cart Page</h2>
+          <ol class="breadcrumb">
+            <li><a href="index.php">Home</a></li>
+            <li class="active">Cart</li>
+          </ol>
+        </div>
       </div>
-     </div>
-   </div>
+    </div>
   </section>
   <!-- / catg header banner section -->
 
- <!-- Cart view section -->
- <section id="cart-view">
-   <div class="container">
-     <div class="row">
-       <div class="col-md-12">
-         <div class="cart-view-area">
-           <div class="cart-view-table">
-             <form action="">
-               <div class="table-responsive">
+  <!-- Cart view section -->
+  <section id="cart-view">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="cart-view-area">
+            <div class="cart-view-table">
+              <form action="">
+                <div class="table-responsive">
                   <table class="table">
                     <thead>
                       <tr>
@@ -177,7 +177,9 @@
                     </thead>
                     <tbody>
                       <tr>
-                        <td><a class="remove" href="#"><fa class="fa fa-close"></fa></a></td>
+                        <td><a class="remove" href="#">
+                            <fa class="fa fa-close"></fa>
+                          </a></td>
                         <td><a href="#"><img src="img/man/polo-shirt-1.png" alt="img"></a></td>
                         <td><a class="aa-cart-title" href="#">Polo T-Shirt</a></td>
                         <td>$250</td>
@@ -185,7 +187,9 @@
                         <td>$250</td>
                       </tr>
                       <tr>
-                        <td><a class="remove" href="#"><fa class="fa fa-close"></fa></a></td>
+                        <td><a class="remove" href="#">
+                            <fa class="fa fa-close"></fa>
+                          </a></td>
                         <td><a href="#"><img src="img/man/polo-shirt-2.png" alt="img"></a></td>
                         <td><a class="aa-cart-title" href="#">Polo T-Shirt</a></td>
                         <td>$150</td>
@@ -193,7 +197,9 @@
                         <td>$150</td>
                       </tr>
                       <tr>
-                        <td><a class="remove" href="#"><fa class="fa fa-close"></fa></a></td>
+                        <td><a class="remove" href="#">
+                            <fa class="fa fa-close"></fa>
+                          </a></td>
                         <td><a href="#"><img src="img/man/polo-shirt-3.png" alt="img"></a></td>
                         <td><a class="aa-cart-title" href="#">Polo T-Shirt</a></td>
                         <td>$50</td>
@@ -209,34 +215,34 @@
                           <input class="aa-cart-view-btn" type="submit" value="Update Cart">
                         </td>
                       </tr>
-                      </tbody>
+                    </tbody>
                   </table>
                 </div>
-             </form>
-             <!-- Cart Total view -->
-             <div class="cart-view-total">
-               <h4>Cart Totals</h4>
-               <table class="aa-totals-table">
-                 <tbody>
-                   <tr>
-                     <th>Subtotal</th>
-                     <td>$450</td>
-                   </tr>
-                   <tr>
-                     <th>Total</th>
-                     <td>$450</td>
-                   </tr>
-                 </tbody>
-               </table>
-               <a href="#" class="aa-cart-view-btn">Proced to Checkout</a>
-             </div>
-           </div>
-         </div>
-       </div>
-     </div>
-   </div>
- </section>
- <!-- / Cart view section -->
+              </form>
+              <!-- Cart Total view -->
+              <div class="cart-view-total">
+                <h4>Cart Totals</h4>
+                <table class="aa-totals-table">
+                  <tbody>
+                    <tr>
+                      <th>Subtotal</th>
+                      <td>$450</td>
+                    </tr>
+                    <tr>
+                      <th>Total</th>
+                      <td>$450</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <a href="#" class="aa-cart-view-btn">Proced to Checkout</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- / Cart view section -->
 
 
   <!-- Subscribe section -->
@@ -258,69 +264,46 @@
   </section>
   <!-- / Subscribe section -->
 
-  <!-- footer -->  
+  <!-- footer -->
   <footer id="aa-footer">
     <!-- footer bottom -->
     <div class="aa-footer-top">
-     <div class="container">
+      <div class="container">
         <div class="row">
-        <div class="col-md-12">
-          <div class="aa-footer-top-area">
-            <div class="row">
-              <div class="col-md-3 col-sm-6">
-                <div class="aa-footer-widget">
-                  <h3>Main Menu</h3>
-                  <ul class="aa-footer-nav">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Our Services</a></li>
-                    <li><a href="#">Our Products</a></li>
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Contact Us</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6">
-                <div class="aa-footer-widget">
-                  <div class="aa-footer-widget">
-                    <h3>Knowledge Base</h3>
+          <div class="col-md-12">
+            <div class="aa-footer-top-area">
+              <div class="row">
+                <div class="col-md-3 col-sm-6">
+                  <div class="aa-footer-widget" style="margin-left: 40px">
+                    <h3>Menu</h3>
                     <ul class="aa-footer-nav">
-                      <li><a href="#">Delivery</a></li>
-                      <li><a href="#">Returns</a></li>
-                      <li><a href="#">Services</a></li>
-                      <li><a href="#">Discount</a></li>
-                      <li><a href="#">Special Offer</a></li>
-                    </ul>
+                      <li><a href="index.php">Home</a></li>
+                      <li>Bebidas</li>
+                      <li><a href="nao-alcoolica.php">Não Alcoólicas</a></li>
+                      <li><a href="destilado.php">Destilados</a></li>
+                      <li><a href="cerveja.php">Cervejas</a></li>
+
                   </div>
                 </div>
-              </div>
-              <div class="col-md-3 col-sm-6">
-                <div class="aa-footer-widget">
+                <div class="col-md-3 col-sm-6" style="margin-left: -90px; margin-top: 50px">
                   <div class="aa-footer-widget">
-                    <h3>Useful Links</h3>
-                    <ul class="aa-footer-nav">
-                      <li><a href="#">Site Map</a></li>
-                      <li><a href="#">Search</a></li>
-                      <li><a href="#">Advanced Search</a></li>
-                      <li><a href="#">Suppliers</a></li>
-                      <li><a href="#">FAQ</a></li>
-                    </ul>
+                    <div class="aa-footer-widget">
+                      <ul class="aa-footer-nav">
+                        <li><a href="sobre.php">Sobre</a></li>
+                        <li><a href="contact.ph">Contato</a></li>
+                      </ul>
+                    </div>
                   </div>
                 </div>
-              </div>
-              <div class="col-md-3 col-sm-6">
-                <div class="aa-footer-widget">
+                <div class="col-md-3 col-sm-6" style="margin-left: 90px">
                   <div class="aa-footer-widget">
-                    <h3>Contact Us</h3>
-                    <address>
-                      <p> 25 Astor Pl, NY 10003, USA</p>
-                      <p><span class="fa fa-phone"></span>+1 212-982-4589</p>
-                      <p><span class="fa fa-envelope"></span>dailyshop@gmail.com</p>
-                    </address>
-                    <div class="aa-footer-social">
-                      <a href="#"><span class="fa fa-facebook"></span></a>
-                      <a href="#"><span class="fa fa-twitter"></span></a>
-                      <a href="#"><span class="fa fa-google-plus"></span></a>
-                      <a href="#"><span class="fa fa-youtube"></span></a>
+                    <div class="aa-footer-widget">
+                      <h3>Fale Conosco</h3>
+                      <address>
+                        <p>Avenida Paulista, 14500, São Paulo</p>
+                        <p>11 97070-7070</p>
+                        <p>contato@getdrunk.com.br</p>
+                      </address>
                     </div>
                   </div>
                 </div>
@@ -329,34 +312,27 @@
           </div>
         </div>
       </div>
-     </div>
     </div>
     <!-- footer-bottom -->
     <div class="aa-footer-bottom">
       <div class="container">
         <div class="row">
-        <div class="col-md-12">
-          <div class="aa-footer-bottom-area">
-            <p>Designed by <a href="http://www.markups.io/">MarkUps.io</a></p>
-            <div class="aa-footer-payment">
-              <span class="fa fa-cc-mastercard"></span>
-              <span class="fa fa-cc-visa"></span>
-              <span class="fa fa-paypal"></span>
-              <span class="fa fa-cc-discover"></span>
+          <div class="col-md-12">
+            <div class="aa-footer-bottom-area">
+              <p>Feito por Anna, Larissa, Matheus e William</p>
             </div>
           </div>
         </div>
       </div>
-      </div>
     </div>
   </footer>
   <!-- / footer -->
-  <!-- Login Modal -->  
+  <!-- Login Modal -->
   <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog">
-      <div class="modal-content">                      
+      <div class="modal-content">
         <div class="modal-body">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
           <h4>Login or Register</h4>
           <form class="aa-login-form" action="">
             <label for="">Username or Email address<span>*</span></label>
@@ -370,33 +346,34 @@
               Don't have an account?<a href="account.php">Register now!</a>
             </div>
           </form>
-        </div>                        
+        </div>
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
   </div>
 
 
-    
-    <!-- jQuery library -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.js"></script>  
-    <!-- SmartMenus jQuery plugin -->
-    <script type="text/javascript" src="js/jquery.smartmenus.js"></script>
-    <!-- SmartMenus jQuery Bootstrap Addon -->
-    <script type="text/javascript" src="js/jquery.smartmenus.bootstrap.js"></script>  
-    <!-- To Slider JS -->
-    <script src="js/sequence.js"></script>
-    <script src="js/sequence-theme.modern-slide-in.js"></script>  
-    <!-- Product view slider -->
-    <script type="text/javascript" src="js/jquery.simpleGallery.js"></script>
-    <script type="text/javascript" src="js/jquery.simpleLens.js"></script>
-    <!-- slick slider -->
-    <script type="text/javascript" src="js/slick.js"></script>
-    <!-- Price picker slider -->
-    <script type="text/javascript" src="js/nouislider.js"></script>
-    <!-- Custom js -->
-    <script src="js/custom.js"></script> 
 
-  </body>
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="js/bootstrap.js"></script>
+  <!-- SmartMenus jQuery plugin -->
+  <script type="text/javascript" src="js/jquery.smartmenus.js"></script>
+  <!-- SmartMenus jQuery Bootstrap Addon -->
+  <script type="text/javascript" src="js/jquery.smartmenus.bootstrap.js"></script>
+  <!-- To Slider JS -->
+  <script src="js/sequence.js"></script>
+  <script src="js/sequence-theme.modern-slide-in.js"></script>
+  <!-- Product view slider -->
+  <script type="text/javascript" src="js/jquery.simpleGallery.js"></script>
+  <script type="text/javascript" src="js/jquery.simpleLens.js"></script>
+  <!-- slick slider -->
+  <script type="text/javascript" src="js/slick.js"></script>
+  <!-- Price picker slider -->
+  <script type="text/javascript" src="js/nouislider.js"></script>
+  <!-- Custom js -->
+  <script src="js/custom.js"></script>
+
+</body>
+
 </html>
