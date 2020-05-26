@@ -1687,7 +1687,7 @@
                     <div class="aa-footer-widget">
                       <h3>Fale Conosco</h3>
                       <address>
-                        <p>Avenida Paulista, 14500, São Paulo</p>
+                        <p>Avenida Paulista, 1765, São Paulo</p>
                         <p>11 97070-7070</p>
                         <p>contato@getdrunk.com.br</p>
                       </address>

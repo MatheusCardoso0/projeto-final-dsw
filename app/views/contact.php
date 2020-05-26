@@ -140,7 +140,7 @@
   <!-- / menu -->
   <!-- catg header banner section -->
   <section id="aa-catg-head-banner">
-    <img src="img/fashion/fashion-header-bg-8.jpg" alt="fashion img">
+    <img src="img/contato.jpg" alt="fashion img">
     <div class="aa-catg-head-banner-area">
       <div class="container">
         <div class="aa-catg-head-banner-content">
@@ -160,13 +160,9 @@
       <div class="row">
         <div class="col-md-12">
           <div class="aa-contact-area">
-            <div class="aa-contact-top">
-              <h2>We are wating to assist you..</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, quos.</p>
-            </div>
             <!-- contact map -->
             <div class="aa-contact-map">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.3714257064535!2d-86.7550931378034!3d34.66757706940219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8862656f8475892d%3A0xf3b1aee5313c9d4d!2sHuntsville%2C+AL+35813%2C+USA!5e0!3m2!1sen!2sbd!4v1445253385137" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.2139380617455!2d-46.66003718460905!3d-23.56075866745602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59cc28d4990d%3A0xd6497aeb76f0f23a!2sAv.%20Paulista%2C%201765%20-%20Bela%20Vista%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001311-200!5e0!3m2!1spt-BR!2sbr!4v1590450102930!5m2!1spt-BR!2sbr" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
             <!-- Contact address -->
             <div class="aa-contact-address">
@@ -177,7 +173,7 @@
                       <div class="row">
                         <div class="col-md-6">
                           <div class="form-group">
-                            <input type="text" placeholder="Your Name" class="form-control">
+                            <input type="text" placeholder="Seu Nome" class="form-control">
                           </div>
                         </div>
                         <div class="col-md-6">
@@ -189,31 +185,31 @@
                       <div class="row">
                         <div class="col-md-6">
                           <div class="form-group">
-                            <input type="text" placeholder="Subject" class="form-control">
+                            <input type="text" placeholder="Assunto" class="form-control">
                           </div>
                         </div>
                         <div class="col-md-6">
                           <div class="form-group">
-                            <input type="text" placeholder="Company" class="form-control">
+                            <input type="text" placeholder="Empresa" class="form-control">
                           </div>
                         </div>
                       </div>
 
                       <div class="form-group">
-                        <textarea class="form-control" rows="3" placeholder="Message"></textarea>
+                        <textarea class="form-control" rows="3" placeholder="Menssagem"></textarea>
                       </div>
-                      <button class="aa-secondary-btn">Send</button>
+                      <button class="aa-secondary-btn">Enviar</button>
                     </form>
                   </div>
                 </div>
                 <div class="col-md-4">
                   <div class="aa-contact-address-right">
                     <address>
-                      <h4>DailyShop</h4>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum modi dolor facilis! Nihil error, eius.</p>
-                      <p><span class="fa fa-home"></span>Huntsville, AL 35813, USA</p>
-                      <p><span class="fa fa-phone"></span>+ 021.343.7575</p>
-                      <p><span class="fa fa-envelope"></span>Email: support@dailyshop.com</p>
+                      <h4>Get Drunk</h4>
+                      <p>Sua bebida na mão, na hora e no lugar que quiser.</p>
+                      <p>Avenida Paulista, 1765, São Paulo</p>
+                      <p>11 97070-7070</p>
+                      <p>Email: contato@getdrunk.com.br</p>
                     </address>
                   </div>
                 </div>
@@ -243,13 +239,13 @@
                       <li><a href="nao-alcoolica.php">Não Alcoólicas</a></li>
                       <li><a href="destilado.php">Destilados</a></li>
                       <li><a href="cerveja.php">Cervejas</a></li>
-                      
+
                   </div>
                 </div>
                 <div class="col-md-3 col-sm-6" style="margin-left: -90px; margin-top: 50px">
                   <div class="aa-footer-widget">
                     <div class="aa-footer-widget">
-                    <ul class="aa-footer-nav">
+                      <ul class="aa-footer-nav">
                         <li><a href="sobre.php">Sobre</a></li>
                         <li><a href="contact.ph">Contato</a></li>
                       </ul>
@@ -261,7 +257,7 @@
                     <div class="aa-footer-widget">
                       <h3>Fale Conosco</h3>
                       <address>
-                        <p>Avenida Paulista, 14500, São Paulo</p>
+                        <p>Avenida Paulista, 1765, São Paulo</p>
                         <p>11 97070-7070</p>
                         <p>contato@getdrunk.com.br</p>
                       </address>
