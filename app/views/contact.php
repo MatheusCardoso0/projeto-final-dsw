@@ -140,7 +140,7 @@
   <!-- / menu -->
   <!-- catg header banner section -->
   <section id="aa-catg-head-banner">
-    <img src="img/contato.jpg" alt="fashion img">
+    <img src="img/banner_contact-1920x300.jpg" alt="fashion img">
     <div class="aa-catg-head-banner-area">
       <div class="container">
         <div class="aa-catg-head-banner-content">
