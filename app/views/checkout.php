@@ -194,11 +194,11 @@
                         <div id="collapseTwo" class="panel-collapse collapse">
                           <div class="panel-body">
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat voluptatibus modi pariatur qui reprehenderit asperiores fugiat deleniti praesentium enim incidunt.</p>
-                            <input type="text" placeholder="Username or email">
-                            <input type="password" placeholder="Password">
+                            <input type="text" placeholder="Email">
+                            <input type="password" placeholder="Senha">
                             <button type="submit" class="aa-browse-btn">Login</button>
                             <label for="rememberme"><input type="checkbox" id="rememberme"> Remember me </label>
-                            <p class="aa-lost-password"><a href="#">Lost your password?</a></p>
+                            
                           </div>
                         </div>
                       </div>
@@ -542,17 +542,15 @@
       <div class="modal-content">
         <div class="modal-body">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-          <h4>Login or Register</h4>
+          <h4>Login</h4>
           <form class="aa-login-form" action="">
-            <label for="">Username or Email address<span>*</span></label>
-            <input type="text" placeholder="Username or email">
-            <label for="">Password<span>*</span></label>
-            <input type="password" placeholder="Password">
+            <label for="">Email<span>*</span></label>
+            <input type="text" placeholder="Email">
+            <label for="">Senha<span>*</span></label>
+            <input type="password" placeholder="Senha">
             <button class="aa-browse-btn" type="submit">Login</button>
-            <label for="rememberme" class="rememberme"><input type="checkbox" id="rememberme"> Remember me </label>
-            <p class="aa-lost-password"><a href="#">Lost your password?</a></p>
             <div class="aa-register-now">
-              Don't have an account?<a href="account.php">Register now!</a>
+              Não tem uma conta?<a href="account.php">Registre-se</a>
             </div>
           </form>
         </div>
