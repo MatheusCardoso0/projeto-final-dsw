@@ -162,15 +162,23 @@
           <div class="aa-contact-area">
             <div class="aa-contact-top">
               <h2>Missão</h2>
-              <p>ajfgkjdasfhadshfiahdfiladhfiadhfilahdfiladhfliahdflihdailfhildahfiadhfiladhilfhdalifhiladhfiladhifhadifhladfiadhfdahlifhadlladhfladhflihadlifhdlifahosfjadsfjaidlfhadfldahflhadlkfjadçfjadoçfjaslçalçfjiefewjoeçrfjwçerfjçejfço</p>
+              <p><br>Ser a maior e mais conceituada loja de bebidas online, tornando-se referencia quando o assunto é a venda de bebidas, destacando assim a qualidade de nossos produtos, e o nosso excelente atendimento tudo isso a um preço extremamente acessível aos consumidores.<br><br>
+                Proporcionar a nossos colaboradores as melhores condições de trabalho e remuneração justa possibilitando o crescimento profissional dos mesmos além de reconhecimento dos colaboradores , utilizando diversas técnicas de gestão de pessoas e psicologia para alcançarmos essa meta.</p>
             </div>
             <div class="aa-contact-top">
               <h2>Visão</h2>
-              <p>ajfgkjdasfhadshfiahdfiladhfiadhfilahdfiladhfliahdflihdailfhildahfiadhfiladhilfhdalifhipfo</p>
+              <p><br>Contruir um negócio sustentavel e futuristico, acompanhando a evolução do mundo e contribuindo para ela, possibilitando por meio do lazer um momento de relaxamento, diversão e reflexão distraindo por alguns momentos aqueles que estão construindo nosso futuro.
+              </p>
             </div>
             <div class="aa-contact-top">
               <h2>Valores</h2>
-              <p>ajfgkjdasfhadshfiahdfiladhfiadhfilahdfiladhfliahdflihdailfhildahfiadhfiladhilfhdalifhiladhfiladhifhadifhladfiadhfdahlifhadlladhfladhflihadlifhdlifahosfjadsfjaidlfhadfldahflhadlkfjadçfjadoçfjaslçalçfpfj pfj gj gaop jfaopj fgpoj gpfo</p>
+              <p><br>Os valores da nossa companhia são simples : <br><br>
+                - Agilidade<br><br>
+                - Confiança<br><br>
+                - Respeito mútuo<br><br>
+                - Segurança<br><br>
+                - Eficiência<br><br>
+                - Transparencia</p>
             </div>
           </div>
         </div>
