@@ -144,10 +144,10 @@
     <div class="aa-catg-head-banner-area">
       <div class="container">
         <div class="aa-catg-head-banner-content">
-          <h2>Cart Page</h2>
+          <h2>Meu Carrinho</h2>
           <ol class="breadcrumb">
             <li><a href="index.php">Home</a></li>
-            <li class="active">Cart</li>
+            <li class="active">Meu Carrinho</li>
           </ol>
         </div>
       </div>

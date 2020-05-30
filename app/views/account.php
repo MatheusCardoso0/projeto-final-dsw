@@ -145,10 +145,10 @@
         <div class="aa-catg-head-banner-area">
             <div class="container">
                 <div class="aa-catg-head-banner-content">
-                    <h2>Account Page</h2>
+                    <h2>Minha Conta</h2>
                     <ol class="breadcrumb">
                         <li><a href="index.php">Home</a></li>
-                        <li class="active">Account</li>
+                        <li class="active">Minha Conta</li>
                     </ol>
                 </div>
             </div>
@@ -177,7 +177,7 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="aa-myaccount-register">
-                                    <h4>Login</h4>
+                                    <h4>Registrar</h4>
                                     <form action="" class="aa-login-form">
                                         <label for="">Email<span>*</span></label>
                                         <input type="text" placeholder="Email">

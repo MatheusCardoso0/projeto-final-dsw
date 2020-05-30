@@ -144,7 +144,7 @@
     <div class="aa-catg-head-banner-area">
       <div class="container">
         <div class="aa-catg-head-banner-content">
-          <h2>Checkout Page</h2>
+          <h2>Checkout</h2>
           <ol class="breadcrumb">
             <li><a href="index.php">Home</a></li>
             <li class="active">Checkout</li>
