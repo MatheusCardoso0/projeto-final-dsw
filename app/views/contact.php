@@ -169,7 +169,7 @@
               <div class="row">
                 <div class="col-md-8">
                   <div class="aa-contact-address-left">
-                    <form class="comments-form contact-form" action="">
+                    <form class="comments-form contact-form" action="mailto:contato@getdrunk.com.br">
                       <div class="row">
                         <div class="col-md-6">
                           <div class="form-group">
