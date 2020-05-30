@@ -217,7 +217,7 @@
   <!-- / slider -->
   <!-- Start Promo section -->
   <section id="aa-promo">
-    <div class="container">
+    <div class="container" style="margin-left: 287px;">
       <div class="row">
         <div class="col-md-12">
           <div class="aa-promo-area">
@@ -226,10 +226,9 @@
               <div class="col-md-5 no-padding">
                 <div class="aa-promo-left">
                   <div class="aa-promo-banner">
-                    <img src="img/promo-banner-1.jpg" alt="img">
+                    <img src="img/nao-alcoolica.jpg" alt="img">
                     <div class="aa-prom-content">
-                      <span>75% Off</span>
-                      <h4><a href="#">For Women</a></h4>
+                      <h4><a href="nao-alcoolica.php">Não Alcoólicas</a></h4>
                     </div>
                   </div>
                 </div>
@@ -239,37 +238,17 @@
                 <div class="aa-promo-right">
                   <div class="aa-single-promo-right">
                     <div class="aa-promo-banner">
-                      <img src="img/promo-banner-3.jpg" alt="img">
+                      <img src="img/cervja.jpg" alt="img">
                       <div class="aa-prom-content">
-                        <span>Exclusive Item</span>
-                        <h4><a href="#">For Men</a></h4>
+                        <h4><a href="cerveja.php">Cervejas</a></h4>
                       </div>
                     </div>
                   </div>
-                  <div class="aa-single-promo-right">
+                  <div class="aa-single-promo-right" style="margin-top: 200px; margin-left: -341px;">
                     <div class="aa-promo-banner">
-                      <img src="img/promo-banner-2.jpg" alt="img">
+                      <img src="img/destilados.jpg" alt="img">
                       <div class="aa-prom-content">
-                        <span>Sale Off</span>
-                        <h4><a href="#">On Shoes</a></h4>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="aa-single-promo-right">
-                    <div class="aa-promo-banner">
-                      <img src="img/promo-banner-4.jpg" alt="img">
-                      <div class="aa-prom-content">
-                        <span>New Arrivals</span>
-                        <h4><a href="#">For Kids</a></h4>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="aa-single-promo-right">
-                    <div class="aa-promo-banner">
-                      <img src="img/promo-banner-5.jpg" alt="img">
-                      <div class="aa-prom-content">
-                        <span>25% Off</span>
-                        <h4><a href="#">For Bags</a></h4>
+                        <h4><a href="destilados.php">Destilados</a></h4>
                       </div>
                     </div>
                   </div>
@@ -282,86 +261,6 @@
     </div>
   </section>
   <!-- / Promo section -->
-
-  <!-- Testimonial -->
-  <section id="aa-testimonial">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="aa-testimonial-area">
-            <ul class="aa-testimonial-slider">
-              <!-- single slide -->
-              <li>
-                <div class="aa-testimonial-single">
-                  <img class="aa-testimonial-img" src="img/testimonial-img-2.jpg" alt="testimonial img">
-                  <span class="fa fa-quote-left aa-testimonial-quote"></span>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt distinctio omnis possimus, facere, quidem qui!consectetur adipisicing elit. Sunt distinctio omnis possimus, facere, quidem qui.</p>
-                  <div class="aa-testimonial-info">
-                    <p>Allison</p>
-                    <span>Designer</span>
-                    <a href="#">Dribble.com</a>
-                  </div>
-                </div>
-              </li>
-              <!-- single slide -->
-              <li>
-                <div class="aa-testimonial-single">
-                  <img class="aa-testimonial-img" src="img/testimonial-img-1.jpg" alt="testimonial img">
-                  <span class="fa fa-quote-left aa-testimonial-quote"></span>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt distinctio omnis possimus, facere, quidem qui!consectetur adipisicing elit. Sunt distinctio omnis possimus, facere, quidem qui.</p>
-                  <div class="aa-testimonial-info">
-                    <p>KEVIN MEYER</p>
-                    <span>CEO</span>
-                    <a href="#">Alphabet</a>
-                  </div>
-                </div>
-              </li>
-              <!-- single slide -->
-              <li>
-                <div class="aa-testimonial-single">
-                  <img class="aa-testimonial-img" src="img/testimonial-img-3.jpg" alt="testimonial img">
-                  <span class="fa fa-quote-left aa-testimonial-quote"></span>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt distinctio omnis possimus, facere, quidem qui!consectetur adipisicing elit. Sunt distinctio omnis possimus, facere, quidem qui.</p>
-                  <div class="aa-testimonial-info">
-                    <p>Luner</p>
-                    <span>COO</span>
-                    <a href="#">Kinatic Solution</a>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- / Testimonial -->
-
-  <!-- Client Brand -->
-  <!-- <section id="aa-client-brand">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="aa-client-brand-area">
-            <ul class="aa-client-brand-slider">
-              <li><a href="#"><img src="img/client-brand-java.png" alt="java img"></a></li>
-              <li><a href="#"><img src="img/client-brand-jquery.png" alt="jquery img"></a></li>
-              <li><a href="#"><img src="img/client-brand-html5.png" alt="html5 img"></a></li>
-              <li><a href="#"><img src="img/client-brand-css3.png" alt="css3 img"></a></li>
-              <li><a href="#"><img src="img/client-brand-wordpress.png" alt="wordPress img"></a></li>
-              <li><a href="#"><img src="img/client-brand-joomla.png" alt="joomla img"></a></li>
-              <li><a href="#"><img src="img/client-brand-java.png" alt="java img"></a></li>
-              <li><a href="#"><img src="img/client-brand-jquery.png" alt="jquery img"></a></li>
-              <li><a href="#"><img src="img/client-brand-html5.png" alt="html5 img"></a></li>
-              <li><a href="#"><img src="img/client-brand-css3.png" alt="css3 img"></a></li>
-              <li><a href="#"><img src="img/client-brand-wordpress.png" alt="wordPress img"></a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
-  <!-- / Client Brand -->
 
   <!-- footer -->
   <footer id="aa-footer">
