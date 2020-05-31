@@ -124,8 +124,8 @@
                   <li><a href="nao-alcoolica.php">Não alcoólicas</a></li>
                   <li><a href="destilados.php">Destilados</a></li>
                   <li><a href="cerveja.php">Cervejas</a></li>
-                  <li><a href="cerveja.php">Vinhos</a></li>
-                  <li><a href="cerveja.php">Whiskys</a></li>
+                  <li><a href="vinho.php">Vinhos</a></li>
+                  <li><a href="whisky.php">Whiskys</a></li>
               </li>
             </ul>
             </li>
@@ -146,11 +146,11 @@
     <div class="aa-catg-head-banner-area">
       <div class="container">
         <div class="aa-catg-head-banner-content">
-          <h2>Cerveja</h2>
+          <h2>Não Alcoólicas</h2>
           <ol class="breadcrumb">
             <li><a href="index.php">Home</a></li>
             <li>Bebidas</li>
-            <li class="active">Cerveja</li>
+            <li class="active">Whiskys</li>
           </ol>
         </div>
       </div>
@@ -532,8 +532,8 @@
                   <div class="aa-footer-widget">
                     <div class="aa-footer-widget">
                       <ul class="aa-footer-nav">
-                        <li><a href="cerveja.php">Vinhos</a></li>
-                        <li><a href="cerveja.php">Whiskys</a></li>
+                        <li><a href="vinho.php">Vinhos</a></li>
+                        <li><a href="whisky.php">Whiskys</a></li>
                         <li><a href="sobre.php">Sobre</a></li>
                         <li><a href="contact.ph">Contato</a></li>
                       </ul>
@@ -593,9 +593,6 @@
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
   </div>
-
-
-
 
   <!-- jQuery library -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

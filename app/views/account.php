@@ -124,6 +124,8 @@
                                     <li><a href="nao-alcoolica.php">Não alcoólicas</a></li>
                                     <li><a href="destilados.php">Destilados</a></li>
                                     <li><a href="cerveja.php">Cervejas</a></li>
+                                    <li><a href="vinho.php">Vinhos</a></li>
+                                    <li><a href="whisky.php">Whiskys</a></li>
                             </li>
                         </ul>
                         </li>
@@ -172,7 +174,7 @@
                                         <label for="">Senha<span>*</span></label>
                                         <input type="password" placeholder="Senha">
                                         <button type="submit" class="aa-browse-btn">Login</button>
-                                        </form>
+                                    </form>
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -213,13 +215,14 @@
                                             <li><a href="nao-alcoolica.php">Não Alcoólicas</a></li>
                                             <li><a href="destilado.php">Destilados</a></li>
                                             <li><a href="cerveja.php">Cervejas</a></li>
-
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-6" style="margin-left: -90px; margin-top: 50px">
                                     <div class="aa-footer-widget">
                                         <div class="aa-footer-widget">
                                             <ul class="aa-footer-nav">
+                                                <li><a href="vinho.php">Vinhos</a></li>
+                                                <li><a href="whisky.php">Whiskys</a></li>
                                                 <li><a href="sobre.php">Sobre</a></li>
                                                 <li><a href="contact.ph">Contato</a></li>
                                             </ul>
