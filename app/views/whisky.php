@@ -146,7 +146,7 @@
     <div class="aa-catg-head-banner-area">
       <div class="container">
         <div class="aa-catg-head-banner-content">
-          <h2>Não Alcoólicas</h2>
+          <h2>Whiskys</h2>
           <ol class="breadcrumb">
             <li><a href="index.php">Home</a></li>
             <li>Bebidas</li>

@@ -124,8 +124,8 @@
                   <li><a href="nao-alcoolica.php">Não alcoólicas</a></li>
                   <li><a href="destilados.php">Destilados</a></li>
                   <li><a href="cerveja.php">Cervejas</a></li>
-                  <li><a href="cerveja.php">Vinhos</a></li>
-                  <li><a href="cerveja.php">Whiskys</a></li>
+                  <li><a href="vinho.php">Vinhos</a></li>
+                  <li><a href="whisky.php">Whiskys</a></li>
               </li>
             </ul>
             </li>

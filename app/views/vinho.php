@@ -146,7 +146,7 @@
         <div class="aa-catg-head-banner-area">
             <div class="container">
                 <div class="aa-catg-head-banner-content">
-                    <h2>Não Alcoólicas</h2>
+                    <h2>Vinhos</h2>
                     <ol class="breadcrumb">
                         <li><a href="index.php">Home</a></li>
                         <li>Bebidas</li>
@@ -172,18 +172,11 @@
                                         <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">This is Title</a></h4>
-                                            <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                                            <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                                            <h5 class="aa-product-title"><a href="#">Vinho Tinto Chileto Concha Y Toro Cabernet Sauvignon 750ml</a></h5>
+                                            <span class="aa-product-price">R$ 32,99</span>
                                         </figcaption>
                                     </figure>
-                                    <div class="aa-product-hvr-content">
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-                                        <a href="#" data-toggle2="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>
-                                    </div>
-                                    <!-- product badge -->
-                                    <span class="aa-badge aa-sale" href="#">SALE!</span>
+
                                 </li>
                                 <!-- start single product item -->
                                 <li>
@@ -191,18 +184,11 @@
                                         <a class="aa-product-img" href="#"><img src="img/women/girl-2.png" alt="polo shirt img"></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                                            <span class="aa-product-price">$45.50</span>
-                                            <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                                            <h4 class="aa-product-title"><a href="#">Vinho Tinto Pergola Suave 1L</a></h4>
+                                            <span class="aa-product-price">R$ 21,99</span>
                                         </figcaption>
                                     </figure>
-                                    <div class="aa-product-hvr-content">
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-                                        <a href="#" data-toggle2="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>
-                                    </div>
-                                    <!-- product badge -->
-                                    <span class="aa-badge aa-sold-out" href="#">Sold Out!</span>
+
                                 </li>
                                 <!-- start single product item -->
                                 <li>
@@ -210,16 +196,11 @@
                                         <a class="aa-product-img" href="#"><img src="img/women/girl-3.png" alt="polo shirt img"></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                                            <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                                            <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                                            <h4 class="aa-product-title"><a href="#">Vinho Argentino Tinto Finca Terra Nestra 750ml</a></h4>
+                                            <span class="aa-product-price">R$ 26,99</span>
                                         </figcaption>
                                     </figure>
-                                    <div class="aa-product-hvr-content">
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-                                        <a href="#" data-toggle2="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>
-                                    </div>
+
                                 </li>
                                 <!-- start single product item -->
                                 <li>
@@ -227,35 +208,22 @@
                                         <a class="aa-product-img" href="#"><img src="img/women/girl-4.png" alt="polo shirt img"></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                                            <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                                            <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                                            <h4 class="aa-product-title"><a href="#">Vinho do Porto Português Dom Manuel Tawny Garrafa 750ml</a></h4>
+                                            <span class="aa-product-price">R$ 75,99</span>
                                         </figcaption>
                                     </figure>
-                                    <div class="aa-product-hvr-content">
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-                                        <a href="#" data-toggle2="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>
-                                    </div>
-                                    <!-- product badge -->
-                                    <span class="aa-badge aa-hot" href="#">HOT!</span>
-                                </li>
-                                <!-- start single product item -->
+
+                                    <!-- start single product item -->
                                 <li>
                                     <figure>
                                         <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                                            <span class="aa-product-price">$45.50</span>
-                                            <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                                            <h4 class="aa-product-title"><a href="#">Vinho Tinto Quinta do Morgado Suave Garrafa 750ml</a></h4>
+                                            <span class="aa-product-price">R$ 18,99</span>
                                         </figcaption>
                                     </figure>
-                                    <div class="aa-product-hvr-content">
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-                                        <a href="#" data-toggle2="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>
-                                    </div>
+
                                 </li>
                                 <!-- start single product item -->
                                 <li>
@@ -263,16 +231,10 @@
                                         <a class="aa-product-img" href="#"><img src="img/women/girl-6.png" alt="polo shirt img"></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                                            <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                                            <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
-                                        </figcaption>
+                                            <h4 class="aa-product-title"><a href="#">Vinho Verde Via Latina Garrafa 750ml</a></h4>
+                                            <span class="aa-product-price">R$ 27,99</span>
                                     </figure>
-                                    <div class="aa-product-hvr-content">
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-                                        <a href="#" data-toggle2="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>
-                                    </div>
+
                                 </li>
                                 <!-- start single product item -->
                                 <li>
@@ -280,146 +242,35 @@
                                         <a class="aa-product-img" href="#"><img src="img/women/girl-7.png" alt="polo shirt img"></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                                            <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                                            <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
-                                        </figcaption>
-                                    </figure>
-                                    <div class="aa-product-hvr-content">
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-                                        <a href="#" data-toggle2="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>
-                                    </div>
-                                    <!-- product badge -->
-                                    <span class="aa-badge aa-sale" href="#">SALE!</span>
-                                </li>
-                                <!-- start single product item -->
-                                <li>
-                                    <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
-                                        <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
-                                        <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                                            <span class="aa-product-price">$45.50</span>
-                                            <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
-                                        </figcaption>
-                                    </figure>
-                                    <div class="aa-product-hvr-content">
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-                                        <a href="#" data-toggle2="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>
-                                    </div>
-                                    <!-- product badge -->
-                                    <span class="aa-badge aa-sold-out" href="#">Sold Out!</span>
-                                </li>
-                                <!-- start single product item -->
-                                <li>
-                                    <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
-                                        <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
-                                        <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">This is Title</a></h4>
-                                            <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                                            <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
-                                        </figcaption>
-                                    </figure>
-                                    <div class="aa-product-hvr-content">
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-                                        <a href="#" data-toggle2="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>
-                                    </div>
-                                    <!-- product badge -->
-                                    <span class="aa-badge aa-sale" href="#">SALE!</span>
-                                </li>
-                                <!-- start single product item -->
-                                <li>
-                                    <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-2.png" alt="polo shirt img"></a>
-                                        <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
-                                        <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                                            <span class="aa-product-price">$45.50</span>
-                                            <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
-                                        </figcaption>
-                                    </figure>
-                                    <div class="aa-product-hvr-content">
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-                                        <a href="#" data-toggle2="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>
-                                    </div>
-                                    <!-- product badge -->
-                                    <span class="aa-badge aa-sold-out" href="#">Sold Out!</span>
-                                </li>
-                                <!-- start single product item -->
-                                <li>
-                                    <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-3.png" alt="polo shirt img"></a>
-                                        <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
-                                        <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                                            <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                                            <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
-                                        </figcaption>
-                                    </figure>
-                                    <div class="aa-product-hvr-content">
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-                                        <a href="#" data-toggle2="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>
-                                    </div>
-                                </li>
-                                <!-- start single product item -->
-                                <li>
-                                    <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-4.png" alt="polo shirt img"></a>
-                                        <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
-                                        <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                                            <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                                            <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
-                                        </figcaption>
-                                    </figure>
-                                    <div class="aa-product-hvr-content">
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-                                        <a href="#" data-toggle2="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>
-                                    </div>
-                                    <!-- product badge -->
-                                    <span class="aa-badge aa-hot" href="#">HOT!</span>
-                                </li>
-                                <!-- start single product item -->
-                                <li>
-                                    <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
-                                        <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
-                                        <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                                            <span class="aa-product-price">$45.50</span>
-                                            <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                                            <h4 class="aa-product-title"><a href="#">Vinho Branco Chileno Concha Y Toro Sauvignon Blanc 750ml</a></h4>
+                                            <span class="aa-product-price">R$ 32,99</span>
                                         </figcaption>
                                     </figure>
 
-                                    <div class="aa-product-hvr-content">
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-                                        <a href="#" data-toggle2="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>
-                                    </div>
                                 </li>
                                 <!-- start single product item -->
                                 <li>
                                     <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-6.png" alt="polo shirt img"></a>
+                                        <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                                            <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                                            <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                                            <h4 class="aa-product-title"><a href="#">Coquetel de Vinho Cantinho do Vale Pet 880ml</a></h4>
+                                            <span class="aa-product-price">R$ 3,99</span>
                                         </figcaption>
                                     </figure>
-                                    <div class="aa-product-hvr-content">
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-                                        <a href="#" data-toggle2="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>
-                                    </div>
+
+                                </li>
+                                <!-- start single product item -->
+                                <li>
+                                    <figure>
+                                        <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                                        <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
+                                        <figcaption>
+                                            <h4 class="aa-product-title"><a href="#">Vinho Rose Salton Lunae Drinks 750ml</a></h4>
+                                            <span class="aa-product-price">R$ 19,98</span>
+                                        </figcaption>
+                                    </figure>
+
                                 </li>
                             </ul>
                             <!-- quick view modal -->
